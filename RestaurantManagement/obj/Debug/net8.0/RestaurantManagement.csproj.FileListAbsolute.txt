@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.exe
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.deps.json
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.runtimeconfig.json
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.dll
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.pdb
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.AssemblyInfo.cs
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\Restaura.B356954C.Up2Date
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.dll
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\refint\RestaurantManagement.dll
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.pdb
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\RestaurantManagement.genruntimeconfig.cache
+C:\Users\Acer\source\repos\RestaurantManagement\RestaurantManagement\obj\Debug\net8.0\ref\RestaurantManagement.dll

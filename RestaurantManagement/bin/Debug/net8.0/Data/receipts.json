@@ -1,0 +1,41 @@
+[
+  {
+    "Id": "037c97bd-a2d9-4331-8185-70b821af132b",
+    "OpenTime": "2025-11-17T16:43:49.0094438+02:00",
+    "CloseTime": "2025-11-17T16:52:30.3588415+02:00",
+    "TableNumber": 0,
+    "WaiterId": "00000000-0000-0000-0000-000000000000",
+    "Waiter": null,
+    "Status": 1,
+    "Orders": [
+      {
+        "Id": "3cbdb858-6286-460e-bfbb-a0a07b5aac49",
+        "ReceiptId": "037c97bd-a2d9-4331-8185-70b821af132b",
+        "MenuItemId": "2c7badb8-a0be-47f7-b14a-b1b6ac0f4d9a",
+        "MenuItem": {
+          "Id": "2c7badb8-a0be-47f7-b14a-b1b6ac0f4d9a",
+          "Name": "удон",
+          "Price": 270.0
+        },
+        "Quantity": 4
+      }
+    ],
+    "TotalAmount": 1080.0,
+    "TipsAmount": 108.000
+  },
+  {
+    "Id": "23c1d84c-06ff-41fa-8735-a48014447511",
+    "OpenTime": "2025-11-18T02:31:51.1781352+02:00",
+    "CloseTime": null,
+    "TableNumber": 3,
+    "WaiterId": "b3fdbdd7-a539-49ba-ae62-db6fae488bbc",
+    "Waiter": {
+      "Id": "b3fdbdd7-a539-49ba-ae62-db6fae488bbc",
+      "FullName": "Іванов Іван Іванович"
+    },
+    "Status": 0,
+    "Orders": [],
+    "TotalAmount": 0.0,
+    "TipsAmount": 0.0
+  }
+]
